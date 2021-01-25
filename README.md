@@ -1,1 +1,3 @@
-# repoWithDoc
+# repoWithDoc 
+
+## Using Github Pages
